@@ -1,0 +1,151 @@
+* {
+    margin: 0 auto;
+}
+
+header {
+    background-color: #603000;
+    height: 150px;
+    width: 100%;
+    list-style: none;
+}
+
+body {
+    background-color: beige;
+    margin-top: 0px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+li {
+    list-style-type: none;
+    display: center;
+    margin-left: 300px;
+    font-size: 20px;
+    font-family: 'Press Start 2P';
+    margin-top: 20px;
+    color: #603000;
+}
+
+h2 {
+    display: inline;
+    margin-left: 135px;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 2.5em;
+    font-family: 'Press Start 2P';
+    margin-top: 80px;
+    color: #febb2d;
+}
+
+span {
+    background-color: #603000;
+    padding: 0.3em;
+}
+
+span:hover {
+    background-color: #febb2d;
+    color: #603000;
+}
+
+h4 {
+    padding-top: 3em;
+    margin-left: 135px;
+}
+
+h5 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 5em;
+    font-family: 'Press Start 2P';
+    margin-top: 80px;
+    color: #febb2d;
+    font-family: 'Bangers';
+}
+
+g {
+    background-color: #603000;
+    padding-bottom: 0em;
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+}
+
+g:hover {
+    background-color: #febb2d;
+    color: #603000;
+}
+
+s {
+    text-decoration: none;
+    display: center;
+    margin-left: 300px;
+    font-size: 20px;
+    font-family: 'Press Start 2P';
+    margin-top: 20px;
+    color: #603000;
+}
+
+h6 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 5em;
+    font-family: 'Press Start 2P';
+    margin-top: 80px;
+    color: #febb2d;
+    font-family: 'Chakra Petch';
+}
+
+os {
+    background-color: #603000;
+    padding-bottom: 0em;
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+}
+
+os:hover {
+    background-color: #febb2d;
+    color: #603000;
+}
+
+hr {
+    margin-top: 1.5em;
+    color: #603000;
+}
+
+footer {
+    background-color: #603000;
+    text-align: center;
+    display: column;
+}
+
+h7 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 5em;
+    font-family: 'Press Start 2P';
+    margin-top: 80px;
+    color: #febb2d;
+    font-family: '';
+    margin-top: 10em;
+}
+
+p {
+    margin-top: 1.5em;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+p:hover {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: greenyellow;
+}
